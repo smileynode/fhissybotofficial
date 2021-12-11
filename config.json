@@ -1,0 +1,10 @@
+{
+    "prefix": "YOUR_BOT_PREFIX_HERE",
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "permissions": "ADMINISTRATOR",
+    "application_id": "BOT_APPLICATION_ID_HERE",
+    "owners": [
+        000000000000000000,
+        000000000000000000
+    ]
+  }
